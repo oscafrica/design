@@ -1,5 +1,5 @@
 # Design
-Design related
+Everything Design related in OSCA
 
 # Join our conversation
 You can join the discussions in the OSCA #design channel on <a rel="Discord" href="https://discord.gg/8STPZzN">Discord</a>, under the OSS groups category 
