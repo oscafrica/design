@@ -5,7 +5,7 @@
 
 #### Descripe the Task you're trying to complete
 
-#### How should this be manually tested?
+#### Add link to your design
 
 #### What are the relevant issues this PR belongs to
 
@@ -13,4 +13,4 @@
 
 #### Any background context you want to add?
 
-#### Add screenshots
+#### Add screenshots (Optional)
