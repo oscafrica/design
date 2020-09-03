@@ -3,7 +3,7 @@
 Everything Design related in Open Source Community Africa.
 
 # Join our conversation
-You can join the discussions in the OSCA #design channel on <a rel="Discord" href="https://discord.gg/8STPZzN">Discord</a>, under the OSS groups category 
+You can join the discussions in the O.S.C.A #design channel on <a rel="Discord" href="https://discord.gg/8STPZzN">Discord</a>, under the OSS groups category 
 
 You can talk to us about any of the design related issues.
 
