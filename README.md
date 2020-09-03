@@ -22,7 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://steveanthony.xyz"><img src="https://avatars1.githubusercontent.com/u/45064217?v=4" width="100px;" alt=""/><br /><sub><b>Steve Anthony</b></sub></a><br /><a href="#design-mrstevea" title="Design">🎨</a></td>
+    <td align="center"><a href="http://steveanthony.xyz"><img src="https://avatars1.githubusercontent.com/u/45064217?v=4" width="100px;" alt=""/><br /><sub><b>Steve Anthony</b></sub></a><br /><a href="#design-mrstevea" title="Design">🎨</a> <a href="#content-mrstevea" title="Content">🖋</a></td>
   </tr>
 </table>
 
