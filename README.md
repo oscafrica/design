@@ -9,7 +9,7 @@ You can talk to us about any of the design related issues.
 
 
 # Branding Guideline
-1. Name: The official name for the platform is “Open Source Community Africa” with its acronym as O.S.C.A.
+1. Name: The official name for the organization is “Open Source Community Africa” with its acronym as O.S.C.A.
 
 ### Do’s
 
