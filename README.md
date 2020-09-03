@@ -1,6 +1,6 @@
 
 # Design
-Everything Design related in OSCA
+Everything Design related in Open Source Community Africa.
 
 # Join our conversation
 You can join the discussions in the OSCA #design channel on <a rel="Discord" href="https://discord.gg/8STPZzN">Discord</a>, under the OSS groups category 
