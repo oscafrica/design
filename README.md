@@ -1,6 +1,6 @@
 
 # Design
-Everything Design related in Open Source Community Africa. See <a rel="branding guideline " href="https://docs.oscafrica.org/contributing/design">branding guideline</a> 
+Everything Design related in Open Source Community Africa. See <a rel="branding and contribution guideline " href="https://docs.oscafrica.org/contributing/design">branding and contribution guideline</a> 
 
 # Join our conversation
 You can join the discussions in the O.S.C.A #design channel on <a rel="Discord" href="https://discord.gg/8STPZzN">Discord</a>, under the OSS groups category 
