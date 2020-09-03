@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mrstevea",
+      "name": "Steve Anthony",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45064217?v=4",
+      "profile": "http://steveanthony.xyz",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Design",
+  "projectOwner": "oscafrica",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
