@@ -22,7 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://peaceojemeh.com/"><img src="https://avatars1.githubusercontent.com/u/30669761?v=4" width="100px;" alt=""/><br /><sub>
-      <b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a></td>
+      <b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a> <a href="#design-perriefidelis" title="Documentation">📖</a></td>
     <td align="center"><a href="http://steveanthony.xyz"><img src="https://avatars1.githubusercontent.com/u/45064217?v=4" width="100px;" alt=""/><br /><sub>
       <b>Steve Anthony</b></sub></a><br /><a href="#design-mrstevea" title="Design">🎨</a></td>
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub>
