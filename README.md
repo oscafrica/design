@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Design
 Everything Design related in Open Source Community Africa. To get started, see [brand and contribution guidelines](https://docs.oscafrica.org/contributing/design) 
@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://steveanthony.xyz"><img src="https://avatars1.githubusercontent.com/u/45064217?v=4" width="100px;" alt=""/><br /><sub><b>Steve Anthony</b></sub></a><br /><a href="#design-mrstevea" title="Design">🎨</a></td>
     <td align="center"><a href="http://peaceojemeh.com/"><img src="https://avatars1.githubusercontent.com/u/30669761?v=4" width="100px;" alt=""/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a></td>
+    <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/oscafrica/Design/commits?author=BolajiAyodeji" title="Documentation">📖</a></td>
   </tr>
 </table>
 
