@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Design
 Everything Design related in Open Source Community Africa. To get started, see [brand and contribution guidelines](https://docs.oscafrica.org/contributing/design) 
@@ -18,10 +18,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://peaceojemeh.com/"><img src="https://avatars1.githubusercontent.com/u/30669761?v=4" width="100px;" alt=""/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a> <a href="https://github.com/oscafrica/Design/commits?author=perriefidelis" title="Documentation">📖</a> <a href="https://github.com/oscafrica/Design/pulls?q=is%3Apr+reviewed-by%3Aperriefidelis" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-perriefidelis" title="Project Management">📆</a></td>
     <td align="center"><a href="http://steveanthony.xyz"><img src="https://avatars1.githubusercontent.com/u/45064217?v=4" width="100px;" alt=""/><br /><sub><b>Steve Anthony</b></sub></a><br /><a href="#design-mrstevea" title="Design">🎨</a></td>
+    <td align="center"><a href="http://peaceojemeh.com/"><img src="https://avatars1.githubusercontent.com/u/30669761?v=4" width="100px;" alt=""/><br /><sub><b>Peace Ojemeh</b></sub></a><br /><a href="#design-perriefidelis" title="Design">🎨</a> <a href="https://github.com/oscafrica/Design/commits?author=perriefidelis" title="Documentation">📖</a> <a href="https://github.com/oscafrica/Design/pulls?q=is%3Apr+reviewed-by%3Aperriefidelis" title="Reviewed Pull Requests">👀</a> <a href="#projectManagement-perriefidelis" title="Project Management">📆</a></td>
     <td align="center"><a href="https://bolajiayodeji.com"><img src="https://avatars2.githubusercontent.com/u/30334776?v=4" width="100px;" alt=""/><br /><sub><b>Bolaji Ayodeji</b></sub></a><br /><a href="https://github.com/oscafrica/Design/commits?author=BolajiAyodeji" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/AAjiro1"><img src="https://avatars3.githubusercontent.com/u/66229949?v=4" width="100px;" alt=""/><br /><sub><b>Ejiro Oghenekome</b></sub></a><br /><a href="#design-AAjiro1" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/joshfiifi"><img src="https://avatars0.githubusercontent.com/u/25278100?v=4" width="100px;" alt=""/><br /><sub><b>Joshua Graham</b></sub></a><br /><a href="#design-joshfiifi" title="Design">🎨</a></td>
   </tr>
 </table>
 
