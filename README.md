@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Design
 Everything Design related in Open Source Community Africa. To get started, see [brand and contribution guidelines](https://docs.oscafrica.org/contributing/design) 
@@ -25,6 +25,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/joshfiifi"><img src="https://avatars0.githubusercontent.com/u/25278100?v=4" width="100px;" alt=""/><br /><sub><b>Joshua Graham</b></sub></a><br /><a href="#design-joshfiifi" title="Design">🎨</a></td>
     <td align="center"><a href="http://anonymous-plutocrat.github.io"><img src="https://avatars3.githubusercontent.com/u/24361558?v=4" width="100px;" alt=""/><br /><sub><b>Favour Mokwenye</b></sub></a><br /><a href="#design-anonymous-plutocrat" title="Design">🎨</a></td>
     <td align="center"><a href="http://nuell.disha.page"><img src="https://avatars3.githubusercontent.com/u/67309423?v=4" width="100px;" alt=""/><br /><sub><b>Emmanuel Wogundu </b></sub></a><br /><a href="#design-Nuel0" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Stunkers"><img src="https://avatars1.githubusercontent.com/u/20745401?v=4" width="100px;" alt=""/><br /><sub><b>Kayode Samuel</b></sub></a><br /><a href="#design-stunkers" title="Design">🎨</a></td>
   </tr>
 </table>
 
