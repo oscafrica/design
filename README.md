@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Design
 Everything Design related in Open Source Community Africa. To get started, see [brand and contribution guidelines](https://docs.oscafrica.org/contributing/design) 
@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Stunkers"><img src="https://avatars1.githubusercontent.com/u/20745401?v=4" width="100px;" alt=""/><br /><sub><b>Kayode Samuel</b></sub></a><br /><a href="#design-stunkers" title="Design">🎨</a></td>
     <td align="center"><a href="http://www.abigailmakolo.com"><img src="https://avatars0.githubusercontent.com/u/57357223?v=4" width="100px;" alt=""/><br /><sub><b>Abigail Makolo</b></sub></a><br /><a href="#design-abigail-makolo" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/Kadiridaniel"><img src="https://avatars0.githubusercontent.com/u/30233868?v=4" width="100px;" alt=""/><br /><sub><b>Kadiridaniel</b></sub></a><br /><a href="#design-Kadiridaniel" title="Design">🎨</a></td>
   </tr>
 </table>
 
